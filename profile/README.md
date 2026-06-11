@@ -3,7 +3,7 @@
 <img width="3377" height="950" alt="LargeRed" src="https://github.com/user-attachments/assets/7103443d-afd5-4c6b-b660-781da5413124" />
 
 
-**Building games, creative tools and proprietary technology.**
+**Forging Ideas Into Digital Reality.**
 
 </div>
 
@@ -11,7 +11,7 @@
 
 ## About SanForge Studio
 
-SanForge Studio is an independent studio focused on creating games, development tools and proprietary technology for interactive media.
+SanForge Studio is an independent game studio focused on creating games, development tools and proprietary technology for interactive media.
 
 Our work combines game development, technical experimentation and custom software engineering. We build technology not only to support our own projects, but also to explore new approaches to rendering, game engine architecture, testing and creative production.
 
@@ -19,15 +19,15 @@ Our work combines game development, technical experimentation and custom softwar
 
 * Games and interactive experiences
 * Proprietary game engine technology
-* Rendering and path-tracing systems
 * Developer and testing tools
 * Experimental creative workflows
+* Software to utilize independance
 
 ## Open Source and Contributions
 
 Most SanForge Studio products and engine technology are proprietary and developed for internal use.
 Selected tools, examples, documentation and public releases may be published through this GitHub organization. Contribution availability may therefore differ between repositories.
-Please review the README, license and contribution guidelines of an individual repository before submitting changes.
+Please review the README, license and contribution guidelines of an individual repository before downloading or submitting changes.
 
 ## Resources
 
@@ -39,6 +39,6 @@ Please review the README, license and contribution guidelines of an individual r
 
 
 
-*© 2026 SanForge Studio. All rights reserved.*
+<i>© 2026 SanForge Studio. All rights reserved.</i>
 
 </div>
